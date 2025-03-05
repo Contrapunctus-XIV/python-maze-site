@@ -2,3 +2,4 @@ disjoint_set==0.8.0
 Pillow==11.0.0
 python_fasthtml==0.4.4
 uvicorn==0.30.1
+sqlite_minutils==4.0.3
