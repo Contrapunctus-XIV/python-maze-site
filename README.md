@@ -6,12 +6,12 @@ Il est hébergé sur [Vercel](https://vercel.com) : https://python-maze.vercel.a
 
 ## Lancement
 
-Installez au préalable les dépendances requises : 
+Installez au préalable les dépendances requises :
 ```
 pip install -r requirements.txt
 ```
 
-Pour lancer le serveur il suffit d'exécuter le fichier `main.py`. 
+Pour lancer le serveur il suffit d'exécuter le fichier `main.py`.
 
 ## Fonctionnalités
 
