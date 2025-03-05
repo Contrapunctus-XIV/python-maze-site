@@ -11,7 +11,7 @@ Installez au préalable les dépendances requises :
 pip install -r requirements.txt
 ```
 
-Pour lancer le serveur il suffit d'exécuter le fichier `main.py`.
+Pour lancer le serveur il suffit d'exécuter le fichier `main.py`. 
 
 ## Fonctionnalités
 
